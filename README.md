@@ -1,5 +1,6 @@
 # bash
 一键执行脚本
+bash <(wget -qO- https://raw.githubusercontent.com/jonysun/bash/main/***.sh)
 
 ## ql_scan.sh ##
 
